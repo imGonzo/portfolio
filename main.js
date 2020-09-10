@@ -1,4 +1,3 @@
-document.addEventListener('load', (e) => {
+window.addEventListener('load', (e) => {
   console.log(e);
-  console.log("loaded");
 });
